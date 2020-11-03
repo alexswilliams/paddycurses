@@ -1,0 +1,3189 @@
+{
+  "layout": {
+    "cards": {
+      "INPLAY_FEATURED": {
+        "id": "INPLAY_FEATURED",
+        "type": "INPLAY_FEATURED",
+        "content": [
+          {
+            "eventId": 30086364,
+            "displayOrder": 132,
+            "type": "EVENT"
+          },
+          {
+            "eventId": 30086363,
+            "displayOrder": 133,
+            "type": "EVENT"
+          },
+          {
+            "eventId": 30086365,
+            "displayOrder": 134,
+            "type": "EVENT"
+          },
+          {
+            "eventId": 30086377,
+            "displayOrder": 135,
+            "type": "EVENT"
+          },
+          {
+            "eventId": 30086381,
+            "displayOrder": 136,
+            "type": "EVENT"
+          }
+        ],
+        "hasAttachments": true
+      },
+      "INPLAY_AVB_EVENT:1": {
+        "id": "INPLAY_AVB_EVENT:1",
+        "eventTypeId": 1,
+        "competitions": [
+          141,
+          12200621,
+          854148,
+          827754
+        ],
+        "hasAttachments": true,
+        "title": "Football",
+        "type": "INPLAY_AVB_EVENT",
+        "hasMoreMarkets": true
+      },
+      "INPLAY_AVB_EVENT:2": {
+        "id": "INPLAY_AVB_EVENT:2",
+        "eventTypeId": 2,
+        "competitions": [
+          12291438
+        ],
+        "hasAttachments": true,
+        "title": "Tennis",
+        "type": "INPLAY_AVB_EVENT",
+        "hasMoreMarkets": false
+      },
+      "INPLAY_AVB_EVENT:2593174": {
+        "id": "INPLAY_AVB_EVENT:2593174",
+        "eventTypeId": 2593174,
+        "competitions": [
+          11781840
+        ],
+        "hasAttachments": true,
+        "title": "Table Tennis",
+        "type": "INPLAY_AVB_EVENT",
+        "hasMoreMarkets": false
+      },
+      "INPLAY_AVB_EVENT:27454571": {
+        "id": "INPLAY_AVB_EVENT:27454571",
+        "eventTypeId": 27454571,
+        "competitions": [
+          11116732
+        ],
+        "hasAttachments": true,
+        "title": "Esports",
+        "type": "INPLAY_AVB_EVENT",
+        "hasMoreMarkets": false
+      },
+      "BREADCRUMBS_LINKS": {
+        "id": "BREADCRUMBS_LINKS",
+        "type": "BREADCRUMBS_LINKS",
+        "attachmentsFullyLoaded": true,
+        "attachmentsDependent": true,
+        "linksList": [
+          {
+            "type": "TOP_RANKED_TOURNAMENTS",
+            "links": [
+              {
+                "id": "STATIC_COMP_2005"
+              },
+              {
+                "id": "STATIC_COMP_10932509"
+              },
+              {
+                "id": "STATIC_COMP_141"
+              },
+              {
+                "id": "STATIC_COMP_81"
+              },
+              {
+                "id": "STATIC_COMP_59"
+              }
+            ]
+          },
+          {
+            "type": "TOP_RANKED_TOURNAMENTS",
+            "links": [
+              {
+                "id": "STATIC_MARKET_927.117775002"
+              },
+              {
+                "id": "STATIC_MARKET_927.117775361"
+              },
+              {
+                "id": "STATIC_MARKET_927.117776225"
+              },
+              {
+                "id": "STATIC_MARKET_927.117763375"
+              },
+              {
+                "id": "STATIC_MARKET_927.116525677"
+              }
+            ]
+          },
+          {
+            "type": "TOP_RANKED_TOURNAMENTS",
+            "links": [
+              {
+                "id": "STATIC_COMP_12302204"
+              },
+              {
+                "id": "STATIC_COMP_12302212"
+              },
+              {
+                "id": "STATIC_COMP_12302242"
+              },
+              {
+                "id": "STATIC_COMP_12018782"
+              },
+              {
+                "id": "STATIC_COMP_12224313"
+              }
+            ]
+          },
+          {
+            "type": "TOP_RANKED_TOURNAMENTS",
+            "links": [
+              {
+                "id": "STATIC_COMP_12301880"
+              },
+              {
+                "id": "STATIC_COMP_12301967"
+              },
+              {
+                "id": "STATIC_COMP_12301860"
+              },
+              {
+                "id": "STATIC_COMP_12301840"
+              },
+              {
+                "id": "STATIC_COMP_11581835"
+              }
+            ]
+          }
+        ]
+      },
+      "PAGE_HEADER_CARD": {
+        "id": "PAGE_HEADER_CARD",
+        "type": "PROMOTION",
+        "promotions": [
+          {
+            "id": "PAGE_HEADER_PROMOTION",
+            "loginStatus": "BOTH",
+            "displayOrder": 0
+          }
+        ]
+      }
+    },
+    "marketBlurbs": {
+      "competitions": {},
+      "markets": {}
+    },
+    "tabs": {
+      "1": {
+        "id": "1",
+        "title": "Football",
+        "counter": 12,
+        "cards": []
+      },
+      "2": {
+        "id": "2",
+        "title": "Tennis",
+        "counter": 1,
+        "cards": []
+      },
+      "2593174": {
+        "id": "2593174",
+        "title": "Table Tennis",
+        "counter": 3,
+        "cards": []
+      },
+      "27454571": {
+        "id": "27454571",
+        "title": "Esports",
+        "counter": 1,
+        "cards": []
+      },
+      "ALL": {
+        "id": "ALL",
+        "title": "All",
+        "cards": [
+          {
+            "id": "INPLAY_FEATURED"
+          },
+          {
+            "id": "INPLAY_AVB_EVENT:1"
+          },
+          {
+            "id": "INPLAY_AVB_EVENT:2"
+          },
+          {
+            "id": "INPLAY_AVB_EVENT:2593174"
+          },
+          {
+            "id": "INPLAY_AVB_EVENT:27454571"
+          },
+          {
+            "id": "BREADCRUMBS_LINKS"
+          }
+        ]
+      },
+      "PAGE_HEADER_TAB": {
+        "id": "PAGE_HEADER_TAB",
+        "type": "PAGE_HEADER",
+        "cards": [
+          {
+            "id": "PAGE_HEADER_CARD"
+          }
+        ]
+      }
+    },
+    "tabsDisplayOrder": [
+      "ALL",
+      "1",
+      "2",
+      "2593174",
+      "27454571",
+      "PAGE_HEADER_TAB"
+    ],
+    "defaultTab": "ALL",
+    "links": {
+      "STATIC_COMP_2005": {
+        "id": "STATIC_COMP_2005",
+        "linkIdentifier": {
+          "competitionId": 2005,
+          "options": {
+            "title": "UEFA Europa League"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_10932509": {
+        "id": "STATIC_COMP_10932509",
+        "linkIdentifier": {
+          "competitionId": 10932509,
+          "options": {
+            "title": "English Premier League"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_141": {
+        "id": "STATIC_COMP_141",
+        "linkIdentifier": {
+          "competitionId": 141,
+          "options": {
+            "title": "US Major League Football"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_81": {
+        "id": "STATIC_COMP_81",
+        "linkIdentifier": {
+          "competitionId": 81,
+          "options": {
+            "title": "Italian Serie A"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_59": {
+        "id": "STATIC_COMP_59",
+        "linkIdentifier": {
+          "competitionId": 59,
+          "options": {
+            "title": "German Bundesliga"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_MARKET_927.117775002": {
+        "id": "STATIC_MARKET_927.117775002",
+        "linkIdentifier": {
+          "marketId": "927.117775002",
+          "options": {
+            "title": "Ascot Underwriting Novices Limited Handicap Chase (Antepost)"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_MARKET_927.117775361": {
+        "id": "STATIC_MARKET_927.117775361",
+        "linkIdentifier": {
+          "marketId": "927.117775361",
+          "options": {
+            "title": "bet365 Handicap Chase (Antepost)"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_MARKET_927.117776225": {
+        "id": "STATIC_MARKET_927.117776225",
+        "linkIdentifier": {
+          "marketId": "927.117776225",
+          "options": {
+            "title": "tote.co.uk Handicap Chase (Antepost)"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_MARKET_927.117763375": {
+        "id": "STATIC_MARKET_927.117763375",
+        "linkIdentifier": {
+          "marketId": "927.117763375",
+          "options": {
+            "title": "bet365 Mares Hurdle (Antepost)"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_MARKET_927.116525677": {
+        "id": "STATIC_MARKET_927.116525677",
+        "linkIdentifier": {
+          "marketId": "927.116525677",
+          "options": {
+            "title": "Ladbrokes Champion Chase (Antepost)"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12302204": {
+        "id": "STATIC_COMP_12302204",
+        "linkIdentifier": {
+          "competitionId": 12302204,
+          "options": {
+            "title": "Bermuda Championship 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12302212": {
+        "id": "STATIC_COMP_12302212",
+        "linkIdentifier": {
+          "competitionId": 12302212,
+          "options": {
+            "title": "Cyprus Open 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12302242": {
+        "id": "STATIC_COMP_12302242",
+        "linkIdentifier": {
+          "competitionId": 12302242,
+          "options": {
+            "title": "TimberTech Championship 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12018782": {
+        "id": "STATIC_COMP_12018782",
+        "linkIdentifier": {
+          "competitionId": 12018782,
+          "options": {
+            "title": "The Ryder Cup"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12224313": {
+        "id": "STATIC_COMP_12224313",
+        "linkIdentifier": {
+          "competitionId": 12224313,
+          "options": {
+            "title": "US Masters 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12301880": {
+        "id": "STATIC_COMP_12301880",
+        "linkIdentifier": {
+          "competitionId": 12301880,
+          "options": {
+            "title": "ATP Vienna 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12301967": {
+        "id": "STATIC_COMP_12301967",
+        "linkIdentifier": {
+          "competitionId": 12301967,
+          "options": {
+            "title": "ATP Nur-Sultan 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12301860": {
+        "id": "STATIC_COMP_12301860",
+        "linkIdentifier": {
+          "competitionId": 12301860,
+          "options": {
+            "title": "Hamburg Challenger 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_12301840": {
+        "id": "STATIC_COMP_12301840",
+        "linkIdentifier": {
+          "competitionId": 12301840,
+          "options": {
+            "title": "Marbella Challenger 2020"
+          }
+        },
+        "linkType": "NAV_NODE"
+      },
+      "STATIC_COMP_11581835": {
+        "id": "STATIC_COMP_11581835",
+        "linkIdentifier": {
+          "competitionId": 11581835,
+          "options": {
+            "title": "ITF Tyler"
+          }
+        },
+        "linkType": "NAV_NODE"
+      }
+    },
+    "page": {
+      "type": "INPLAY"
+    },
+    "promotions": {
+      "PAGE_HEADER_PROMOTION": {
+        "id": "PAGE_HEADER_PROMOTION",
+        "backgroundImageURLMobile": "https://arspp.cdnppb.net/img/page-header-default-background.svg",
+        "backgroundImageURL": "https://arspp.cdnppb.net/img/page-header-default-background.svg",
+        "layoutType": "PROMO_TYPE_4"
+      }
+    }
+  },
+  "attachments": {
+    "eventTypes": {
+      "1": {
+        "name": "Football",
+        "eventTypeId": 1
+      },
+      "2": {
+        "name": "Tennis",
+        "eventTypeId": 2
+      },
+      "3": {
+        "name": "Golf",
+        "eventTypeId": 3
+      },
+      "7": {
+        "name": "Horse Racing",
+        "eventTypeId": 7
+      },
+      "4339": {
+        "name": "Greyhound Racing",
+        "eventTypeId": 4339
+      },
+      "2593174": {
+        "name": "Table Tennis",
+        "eventTypeId": 2593174
+      },
+      "27454571": {
+        "name": "Esports",
+        "eventTypeId": 27454571
+      }
+    },
+    "competitions": {
+      "59": {
+        "name": "German Bundesliga",
+        "competitionId": 59,
+        "eventTypeId": 1
+      },
+      "81": {
+        "name": "Italian Serie A",
+        "competitionId": 81,
+        "eventTypeId": 1
+      },
+      "141": {
+        "name": "US Major League Football",
+        "competitionId": 141,
+        "eventTypeId": 1
+      },
+      "2005": {
+        "name": "UEFA Europa League",
+        "competitionId": 2005,
+        "eventTypeId": 1
+      },
+      "827754": {
+        "name": "Mexican Ascenso MX",
+        "competitionId": 827754
+      },
+      "854148": {
+        "name": "Colombian Cup",
+        "competitionId": 854148
+      },
+      "10932509": {
+        "name": "English Premier League",
+        "competitionId": 10932509,
+        "eventTypeId": 1
+      },
+      "11116732": {
+        "name": "Dota 2 The Summit",
+        "competitionId": 11116732
+      },
+      "11581835": {
+        "name": "ITF Tyler",
+        "competitionId": 11581835,
+        "eventTypeId": 2
+      },
+      "11781840": {
+        "name": "Moscow Liga Pro",
+        "competitionId": 11781840
+      },
+      "12018782": {
+        "name": "The Ryder Cup",
+        "competitionId": 12018782,
+        "eventTypeId": 3
+      },
+      "12200621": {
+        "name": "Nicaraguan Primera Division",
+        "competitionId": 12200621
+      },
+      "12224313": {
+        "name": "US Masters 2020",
+        "competitionId": 12224313,
+        "eventTypeId": 3
+      },
+      "12291438": {
+        "name": "Mens UTR Pro Series Australia",
+        "competitionId": 12291438
+      },
+      "12301840": {
+        "name": "Marbella Challenger 2020",
+        "competitionId": 12301840,
+        "eventTypeId": 2
+      },
+      "12301860": {
+        "name": "Hamburg Challenger 2020",
+        "competitionId": 12301860,
+        "eventTypeId": 2
+      },
+      "12301880": {
+        "name": "ATP Vienna 2020",
+        "competitionId": 12301880,
+        "eventTypeId": 2
+      },
+      "12301967": {
+        "name": "ATP Nur-Sultan 2020",
+        "competitionId": 12301967,
+        "eventTypeId": 2
+      },
+      "12302204": {
+        "name": "Bermuda Championship 2020",
+        "competitionId": 12302204,
+        "eventTypeId": 3
+      },
+      "12302212": {
+        "name": "Cyprus Open 2020",
+        "competitionId": 12302212,
+        "eventTypeId": 3
+      },
+      "12302242": {
+        "name": "TimberTech Championship 2020",
+        "competitionId": 12302242,
+        "eventTypeId": 3
+      }
+    },
+    "markets": {
+      "927.117618329": {
+        "marketId": "927.117618329",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086364,
+        "exchangeMarketId": "1.174673314",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:08:13.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 2362970,
+            "handicap": 0,
+            "runnerName": "New York Red Bulls",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 3.6
+                },
+                "fractionalOdds": {
+                  "numerator": 13,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.909090909090909
+                },
+                "fractionalOdds": {
+                  "numerator": 10,
+                  "denominator": 11
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 171907,
+            "handicap": 0,
+            "runnerName": "New England",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 3.6
+                },
+                "fractionalOdds": {
+                  "numerator": 13,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117618528": {
+        "marketId": "927.117618528",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086381,
+        "exchangeMarketId": "1.174674684",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:38:18.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 2362969,
+            "handicap": 0,
+            "runnerName": "Toronto FC",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 5
+                },
+                "fractionalOdds": {
+                  "numerator": 4,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.8
+                },
+                "fractionalOdds": {
+                  "numerator": 9,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 9280784,
+            "handicap": 0,
+            "runnerName": "New York City",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.909090909090909
+                },
+                "fractionalOdds": {
+                  "numerator": 10,
+                  "denominator": 11
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117618328": {
+        "marketId": "927.117618328",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086363,
+        "exchangeMarketId": "1.174673566",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:38:37.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 10962520,
+            "handicap": 0,
+            "runnerName": "FC Cincinnati",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 4.5
+                },
+                "fractionalOdds": {
+                  "numerator": 7,
+                  "denominator": 2
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.4
+                },
+                "fractionalOdds": {
+                  "numerator": 7,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 171912,
+            "handicap": 0,
+            "runnerName": "Kansas City",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.25
+                },
+                "fractionalOdds": {
+                  "numerator": 5,
+                  "denominator": 4
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117618499": {
+        "marketId": "927.117618499",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086377,
+        "exchangeMarketId": "1.174674256",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:38:52.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 4589333,
+            "handicap": 0,
+            "runnerName": "Philadelphia",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.533333333333333
+                },
+                "fractionalOdds": {
+                  "numerator": 8,
+                  "denominator": 15
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 3.4
+                },
+                "fractionalOdds": {
+                  "numerator": 12,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 226469,
+            "handicap": 0,
+            "runnerName": "Chicago Fire",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 7.5
+                },
+                "fractionalOdds": {
+                  "numerator": 13,
+                  "denominator": 2
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117618340": {
+        "marketId": "927.117618340",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086365,
+        "exchangeMarketId": "1.174673188",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:55:24.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "SUSPENDED",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 5640226,
+            "handicap": 0,
+            "runnerName": "Orlando City",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.222222222222222
+                },
+                "fractionalOdds": {
+                  "numerator": 2,
+                  "denominator": 9
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 5.5
+                },
+                "fractionalOdds": {
+                  "numerator": 9,
+                  "denominator": 2
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 12592557,
+            "handicap": 0,
+            "runnerName": "Atlanta Utd",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 12
+                },
+                "fractionalOdds": {
+                  "numerator": 11,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117618964": {
+        "marketId": "927.117618964",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086408,
+        "exchangeMarketId": "1.174678895",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:08:27.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 7533070,
+            "handicap": 0,
+            "runnerName": "Minnesota Utd",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.4
+                },
+                "fractionalOdds": {
+                  "numerator": 7,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 3.3
+                },
+                "fractionalOdds": {
+                  "numerator": 23,
+                  "denominator": 10
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 171911,
+            "handicap": 0,
+            "runnerName": "Colorado",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.75
+                },
+                "fractionalOdds": {
+                  "numerator": 7,
+                  "denominator": 4
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117618932": {
+        "marketId": "927.117618932",
+        "eventTypeId": 1,
+        "competitionId": 141,
+        "eventId": 30086391,
+        "exchangeMarketId": "1.174679291",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:08:30.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 436099,
+            "handicap": 0,
+            "runnerName": "DC Utd",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.875
+                },
+                "fractionalOdds": {
+                  "numerator": 15,
+                  "denominator": 8
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.875
+                },
+                "fractionalOdds": {
+                  "numerator": 15,
+                  "denominator": 8
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 171903,
+            "handicap": 0,
+            "runnerName": "Columbus",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.6
+                },
+                "fractionalOdds": {
+                  "numerator": 8,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117900676": {
+        "marketId": "927.117900676",
+        "eventTypeId": 1,
+        "competitionId": 12200621,
+        "eventId": 30092373,
+        "exchangeMarketId": "1.174831688",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:00:44.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 27856748,
+            "handicap": 0,
+            "runnerName": "CD Junior",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 3.75
+                },
+                "fractionalOdds": {
+                  "numerator": 11,
+                  "denominator": 4
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.666666666666667
+                },
+                "fractionalOdds": {
+                  "numerator": 4,
+                  "denominator": 6
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 10215144,
+            "handicap": 0,
+            "runnerName": "Chinandega FC",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 4
+                },
+                "fractionalOdds": {
+                  "numerator": 3,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117640759": {
+        "marketId": "927.117640759",
+        "eventTypeId": 1,
+        "competitionId": 854148,
+        "eventId": 30086738,
+        "exchangeMarketId": "1.174708733",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:00:20.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 5141456,
+            "handicap": 0,
+            "runnerName": "Quindio",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.8
+                },
+                "fractionalOdds": {
+                  "numerator": 9,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.4
+                },
+                "fractionalOdds": {
+                  "numerator": 7,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 7055314,
+            "handicap": 0,
+            "runnerName": "Jaguares de Cordoba",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 2.8
+                },
+                "fractionalOdds": {
+                  "numerator": 9,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117798512": {
+        "marketId": "927.117798512",
+        "eventTypeId": 1,
+        "competitionId": 827754,
+        "eventId": 30090158,
+        "exchangeMarketId": "1.174779730",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:03:27.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": true,
+        "inPlay": true,
+        "numberOfRunners": 3,
+        "numberOfActiveRunners": 3,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 5901260,
+            "handicap": 0,
+            "runnerName": "Celaya",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.125
+                },
+                "fractionalOdds": {
+                  "numerator": 1,
+                  "denominator": 8
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 58805,
+            "handicap": 0,
+            "runnerName": "The Draw",
+            "sortPriority": 2,
+            "result": {
+              "type": "DRAW"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 5
+                },
+                "fractionalOdds": {
+                  "numerator": 4,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 9988658,
+            "handicap": 0,
+            "runnerName": "Venados FC",
+            "sortPriority": 3,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 23
+                },
+                "fractionalOdds": {
+                  "numerator": 22,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION",
+          "WINCAST"
+        ]
+      },
+      "927.117988165": {
+        "marketId": "927.117988165",
+        "eventTypeId": 2,
+        "competitionId": 12291438,
+        "eventId": 30094217,
+        "exchangeMarketId": "1.174865092",
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-28T23:41:26.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": true,
+        "numberOfRunners": 2,
+        "numberOfActiveRunners": 2,
+        "numberOfWinners": 1,
+        "sortPriority": 2,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 8245720,
+            "handicap": 0,
+            "runnerName": "Maverick Banes",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 67
+                },
+                "fractionalOdds": {
+                  "numerator": 66,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 8243874,
+            "handicap": 0,
+            "runnerName": "John-Patrick Smith",
+            "sortPriority": 2,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.002
+                },
+                "fractionalOdds": {
+                  "numerator": 1,
+                  "denominator": 500
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION"
+        ]
+      },
+      "927.117976081": {
+        "marketId": "927.117976081",
+        "eventTypeId": 2593174,
+        "competitionId": 11781840,
+        "eventId": 30093835,
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:00:00.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": true,
+        "numberOfRunners": 2,
+        "numberOfActiveRunners": 2,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "SUSPENDED",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 28253807,
+            "handicap": 0,
+            "runnerName": "Ogay, Sergey",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 12
+                },
+                "fractionalOdds": {
+                  "numerator": 11,
+                  "denominator": 1
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 28562884,
+            "handicap": 0,
+            "runnerName": "Pravednov, Andrey",
+            "sortPriority": 2,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.015151515151515
+                },
+                "fractionalOdds": {
+                  "numerator": 1,
+                  "denominator": 66
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION"
+        ]
+      },
+      "927.117976508": {
+        "marketId": "927.117976508",
+        "eventTypeId": 2593174,
+        "competitionId": 11781840,
+        "eventId": 30093872,
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:15:00.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": true,
+        "numberOfRunners": 2,
+        "numberOfActiveRunners": 2,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 33284304,
+            "handicap": 0,
+            "runnerName": "Girevenkov, Alik",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.025
+                },
+                "fractionalOdds": {
+                  "numerator": 1,
+                  "denominator": 40
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 28251840,
+            "handicap": 0,
+            "runnerName": "Petrochenko, Dmitry",
+            "sortPriority": 2,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 10.5
+                },
+                "fractionalOdds": {
+                  "numerator": 19,
+                  "denominator": 2
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION"
+        ]
+      },
+      "927.117976513": {
+        "marketId": "927.117976513",
+        "eventTypeId": 2593174,
+        "competitionId": 11781840,
+        "eventId": 30093873,
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:15:00.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": true,
+        "numberOfRunners": 2,
+        "numberOfActiveRunners": 2,
+        "numberOfWinners": 1,
+        "sortPriority": 1,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 32884593,
+            "handicap": 0,
+            "runnerName": "Ilin, Anatoliy",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.3
+                },
+                "fractionalOdds": {
+                  "numerator": 3,
+                  "denominator": 10
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 36567234,
+            "handicap": 0,
+            "runnerName": "Mihaylov, Igor Valerevich",
+            "sortPriority": 2,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 3.2
+                },
+                "fractionalOdds": {
+                  "numerator": 11,
+                  "denominator": 5
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION"
+        ]
+      },
+      "927.117991574": {
+        "marketId": "927.117991574",
+        "eventTypeId": 27454571,
+        "competitionId": 11116732,
+        "eventId": 30089152,
+        "marketName": "Match Odds",
+        "marketTime": "2020-10-29T00:04:05.000Z",
+        "marketType": "MATCH_ODDS",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": true,
+        "numberOfRunners": 2,
+        "numberOfActiveRunners": 2,
+        "numberOfWinners": 1,
+        "sortPriority": 10,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "AVB_EVENT"
+        ],
+        "runners": [
+          {
+            "selectionId": 35473441,
+            "handicap": 0,
+            "runnerName": "Team Brasil",
+            "sortPriority": 1,
+            "result": {
+              "type": "HOME"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 4.5
+                },
+                "fractionalOdds": {
+                  "numerator": 7,
+                  "denominator": 2
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          },
+          {
+            "selectionId": 21057779,
+            "handicap": 0,
+            "runnerName": "Team Zero",
+            "sortPriority": 2,
+            "result": {
+              "type": "AWAY"
+            },
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+              "trueOdds": {
+                "decimalOdds": {
+                  "decimalOdds": 1.166666666666667
+                },
+                "fractionalOdds": {
+                  "numerator": 1,
+                  "denominator": 6
+                }
+              }
+            },
+            "previousWinRunnerOdds": []
+          }
+        ],
+        "canTurnInPlay": true,
+        "eachwayAvailable": false,
+        "legTypes": [
+          "SIMPLE_SELECTION"
+        ]
+      },
+      "927.117776225": {
+        "marketId": "927.117776225",
+        "eventTypeId": 7,
+        "eventId": 30088905,
+        "marketName": "tote.co.uk Handicap Chase (Antepost)",
+        "marketTime": "2020-10-31T13:55:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 9,
+        "numberOfActiveRunners": 9,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 14629527,
+            "handicap": 0,
+            "runnerName": "Belargus",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10677547,
+            "handicap": 0,
+            "runnerName": "Capeland",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 9353722,
+            "handicap": 0,
+            "runnerName": "Azzuri",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21973367,
+            "handicap": 0,
+            "runnerName": "Little Light",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12458428,
+            "handicap": 0,
+            "runnerName": "Ibleo",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10819075,
+            "handicap": 0,
+            "runnerName": "Molineaux",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12178999,
+            "handicap": 0,
+            "runnerName": "Amoola Gold",
+            "sortPriority": 7,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22386727,
+            "handicap": 0,
+            "runnerName": "Flaminger",
+            "sortPriority": 8,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12333525,
+            "handicap": 0,
+            "runnerName": "Caid du Lin",
+            "sortPriority": 9,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.78818027": {
+        "marketId": "927.78818027",
+        "eventTypeId": 4339,
+        "eventId": 131493,
+        "marketName": "English Greyhound Derby",
+        "marketTime": "2020-10-31T20:36:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 6,
+        "numberOfActiveRunners": 6,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 15735807,
+            "handicap": 0,
+            "runnerName": "Southwood Jet",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 35505727,
+            "handicap": 0,
+            "runnerName": "Deerjet Sydney",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22869494,
+            "handicap": 0,
+            "runnerName": "Wolfe",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 28043416,
+            "handicap": 0,
+            "runnerName": "Smurfs Machine",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 32946595,
+            "handicap": 0,
+            "runnerName": "Coolavanny Chick",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21683327,
+            "handicap": 0,
+            "runnerName": "Ballydoyle Valor",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.117775002": {
+        "marketId": "927.117775002",
+        "eventTypeId": 7,
+        "eventId": 30088905,
+        "marketName": "Ascot Underwriting Novices Limited Handicap Chase (Antepost)",
+        "marketTime": "2020-10-31T13:20:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 17,
+        "numberOfActiveRunners": 17,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 21416381,
+            "handicap": 0,
+            "runnerName": "Trincomalee",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22059358,
+            "handicap": 0,
+            "runnerName": "Falco Blitz",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17974823,
+            "handicap": 0,
+            "runnerName": "Tamaroc Du Mathan",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 18765,
+            "handicap": 0,
+            "runnerName": "Copper Coin",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 16829073,
+            "handicap": 0,
+            "runnerName": "Oistrakh Le Noir",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10114322,
+            "handicap": 0,
+            "runnerName": "Republican",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17574771,
+            "handicap": 0,
+            "runnerName": "Dr Sanderson",
+            "sortPriority": 7,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22216114,
+            "handicap": 0,
+            "runnerName": "Annsam",
+            "sortPriority": 8,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 14629527,
+            "handicap": 0,
+            "runnerName": "Belargus",
+            "sortPriority": 9,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21580755,
+            "handicap": 0,
+            "runnerName": "Smarty Wild",
+            "sortPriority": 10,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 27072270,
+            "handicap": 0,
+            "runnerName": "It Sure Is",
+            "sortPriority": 11,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 18823851,
+            "handicap": 0,
+            "runnerName": "Editeur du Gite",
+            "sortPriority": 12,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21611481,
+            "handicap": 0,
+            "runnerName": "Sully Doc AA",
+            "sortPriority": 13,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 27451684,
+            "handicap": 0,
+            "runnerName": "Ga Law",
+            "sortPriority": 14,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17124351,
+            "handicap": 0,
+            "runnerName": "Sevarano",
+            "sortPriority": 15,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 8840941,
+            "handicap": 0,
+            "runnerName": "Subcontinent",
+            "sortPriority": 16,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17949220,
+            "handicap": 0,
+            "runnerName": "Dorking Boy",
+            "sortPriority": 17,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.115182510": {
+        "marketId": "927.115182510",
+        "eventTypeId": 4339,
+        "eventId": 131493,
+        "marketName": "Greyhound Derby 2020 - Top Irish Greyhound",
+        "marketTime": "2020-10-31T20:36:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 4,
+        "numberOfActiveRunners": 4,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 35505727,
+            "handicap": 0,
+            "runnerName": "Deerjet Sydney",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22869494,
+            "handicap": 0,
+            "runnerName": "Wolfe",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 32946595,
+            "handicap": 0,
+            "runnerName": "Coolavanny Chick",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21683327,
+            "handicap": 0,
+            "runnerName": "Ballydoyle Valor",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.116525677": {
+        "marketId": "927.116525677",
+        "eventTypeId": 7,
+        "eventId": 30066514,
+        "marketName": "Ladbrokes Champion Chase (Antepost)",
+        "marketTime": "2020-10-31T14:25:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 11,
+        "numberOfActiveRunners": 11,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 12711028,
+            "handicap": 0,
+            "runnerName": "Moyhenna",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 8922693,
+            "handicap": 0,
+            "runnerName": "Alpha Des Obeaux",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12059874,
+            "handicap": 0,
+            "runnerName": "Tout Est Permis",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12941231,
+            "handicap": 0,
+            "runnerName": "Delta Work",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 8493732,
+            "handicap": 0,
+            "runnerName": "Snow Falcon",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 11082722,
+            "handicap": 0,
+            "runnerName": "Chriss Dream",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 9160199,
+            "handicap": 0,
+            "runnerName": "Balko Des Flos",
+            "sortPriority": 7,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10768754,
+            "handicap": 0,
+            "runnerName": "Presenting Percy",
+            "sortPriority": 8,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 15568022,
+            "handicap": 0,
+            "runnerName": "Ravenhill",
+            "sortPriority": 9,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10472256,
+            "handicap": 0,
+            "runnerName": "The Storyteller",
+            "sortPriority": 10,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10889407,
+            "handicap": 0,
+            "runnerName": "Shattered Love",
+            "sortPriority": 11,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.117775361": {
+        "marketId": "927.117775361",
+        "eventTypeId": 7,
+        "eventId": 30088907,
+        "marketName": "bet365 Handicap Chase (Antepost)",
+        "marketTime": "2020-10-31T13:35:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 31,
+        "numberOfActiveRunners": 31,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 15214444,
+            "handicap": 0,
+            "runnerName": "Siannes Star",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10539154,
+            "handicap": 0,
+            "runnerName": "Nobel Leader",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12519015,
+            "handicap": 0,
+            "runnerName": "Brecon Hill",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21416381,
+            "handicap": 0,
+            "runnerName": "Trincomalee",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17574503,
+            "handicap": 0,
+            "runnerName": "Shesasupermack",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 23929662,
+            "handicap": 0,
+            "runnerName": "Champagne Noir",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22046333,
+            "handicap": 0,
+            "runnerName": "Hes No Trouble",
+            "sortPriority": 7,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 11773416,
+            "handicap": 0,
+            "runnerName": "Thomas Todd",
+            "sortPriority": 8,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 18443380,
+            "handicap": 0,
+            "runnerName": "Yccs Portocervo",
+            "sortPriority": 9,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 9193530,
+            "handicap": 0,
+            "runnerName": "Bollin Ace",
+            "sortPriority": 10,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12363643,
+            "handicap": 0,
+            "runnerName": "Well Smitten",
+            "sortPriority": 11,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 16440139,
+            "handicap": 0,
+            "runnerName": "Caboy",
+            "sortPriority": 12,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21179971,
+            "handicap": 0,
+            "runnerName": "Raecius Felix",
+            "sortPriority": 13,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 23477622,
+            "handicap": 0,
+            "runnerName": "Ard Chros",
+            "sortPriority": 14,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 5832377,
+            "handicap": 0,
+            "runnerName": "High Noon",
+            "sortPriority": 15,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 15719879,
+            "handicap": 0,
+            "runnerName": "Valence dAumont",
+            "sortPriority": 16,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 23727030,
+            "handicap": 0,
+            "runnerName": "Guy",
+            "sortPriority": 17,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 18302526,
+            "handicap": 0,
+            "runnerName": "Darlac",
+            "sortPriority": 18,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 9178744,
+            "handicap": 0,
+            "runnerName": "Ascot de Bruyere",
+            "sortPriority": 19,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12677574,
+            "handicap": 0,
+            "runnerName": "Up Helly Aa King",
+            "sortPriority": 20,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10170404,
+            "handicap": 0,
+            "runnerName": "Niven",
+            "sortPriority": 21,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12086370,
+            "handicap": 0,
+            "runnerName": "Town Parks",
+            "sortPriority": 22,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21865408,
+            "handicap": 0,
+            "runnerName": "Pogue",
+            "sortPriority": 23,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12441183,
+            "handicap": 0,
+            "runnerName": "Well Above Par",
+            "sortPriority": 24,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 16334727,
+            "handicap": 0,
+            "runnerName": "Get Out The Gate",
+            "sortPriority": 25,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 11047517,
+            "handicap": 0,
+            "runnerName": "Minella For Me",
+            "sortPriority": 26,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 9489740,
+            "handicap": 0,
+            "runnerName": "Cracking Find",
+            "sortPriority": 27,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 8121410,
+            "handicap": 0,
+            "runnerName": "Voix dEau",
+            "sortPriority": 28,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17691141,
+            "handicap": 0,
+            "runnerName": "Cilaos Glace",
+            "sortPriority": 29,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17012309,
+            "handicap": 0,
+            "runnerName": "Dandolo du Gite",
+            "sortPriority": 30,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 9486858,
+            "handicap": 0,
+            "runnerName": "Charmix",
+            "sortPriority": 31,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.117379192": {
+        "marketId": "927.117379192",
+        "eventTypeId": 4339,
+        "eventId": 131493,
+        "marketName": "RPGTV Puppy Trophy",
+        "marketTime": "2020-10-31T19:15:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 6,
+        "numberOfActiveRunners": 6,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 35815442,
+            "handicap": 0,
+            "runnerName": "Antigua Bruiser",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 35815448,
+            "handicap": 0,
+            "runnerName": "One For Gold",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 36094652,
+            "handicap": 0,
+            "runnerName": "Ballydoyle Razor",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 35529500,
+            "handicap": 0,
+            "runnerName": "Final Xafonic",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 33841031,
+            "handicap": 0,
+            "runnerName": "Ballymac Fearnot",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 36526749,
+            "handicap": 0,
+            "runnerName": "Arthur Sprout",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.117763375": {
+        "marketId": "927.117763375",
+        "eventTypeId": 7,
+        "eventId": 30088907,
+        "marketName": "bet365 Mares Hurdle (Antepost)",
+        "marketTime": "2020-10-31T14:10:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 14,
+        "numberOfActiveRunners": 14,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 12861252,
+            "handicap": 0,
+            "runnerName": "Malaya",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 26411924,
+            "handicap": 0,
+            "runnerName": "Bit On the Side",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 23160541,
+            "handicap": 0,
+            "runnerName": "Desaray Girl",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 17393095,
+            "handicap": 0,
+            "runnerName": "Mrs Hyde",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 28095516,
+            "handicap": 0,
+            "runnerName": "Born In Borris",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21915390,
+            "handicap": 0,
+            "runnerName": "Whitehotchillifili",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 15445629,
+            "handicap": 0,
+            "runnerName": "Marada",
+            "sortPriority": 7,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 26253965,
+            "handicap": 0,
+            "runnerName": "Running Dor",
+            "sortPriority": 8,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 10990453,
+            "handicap": 0,
+            "runnerName": "Verdana Blue",
+            "sortPriority": 9,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 12765436,
+            "handicap": 0,
+            "runnerName": "Stormy Ireland",
+            "sortPriority": 10,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 16346773,
+            "handicap": 0,
+            "runnerName": "Perfect Myth",
+            "sortPriority": 11,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 25092605,
+            "handicap": 0,
+            "runnerName": "Midnights Gift",
+            "sortPriority": 12,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 21566171,
+            "handicap": 0,
+            "runnerName": "Rosie And Millie",
+            "sortPriority": 13,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 22932129,
+            "handicap": 0,
+            "runnerName": "Miah Grace",
+            "sortPriority": 14,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.117434804": {
+        "marketId": "927.117434804",
+        "eventTypeId": 4339,
+        "eventId": 131493,
+        "marketName": "Westmead Legacy Trophy",
+        "marketTime": "2020-10-31T19:16:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 6,
+        "numberOfActiveRunners": 6,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 28941625,
+            "handicap": 0,
+            "runnerName": "Boca Junior",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 27309271,
+            "handicap": 0,
+            "runnerName": "Acomb Jenny",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 27343027,
+            "handicap": 0,
+            "runnerName": "Acomb Winston",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 26452072,
+            "handicap": 0,
+            "runnerName": "Amka Rofe",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 27170631,
+            "handicap": 0,
+            "runnerName": "King Axle",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 28042142,
+            "handicap": 0,
+            "runnerName": "Agincourt Xena",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      },
+      "927.116590565": {
+        "marketId": "927.116590565",
+        "eventTypeId": 4339,
+        "eventId": 131493,
+        "marketName": "RPGTV Derby Plate",
+        "marketTime": "2020-10-31T20:06:00.000Z",
+        "marketType": "ANTEPOST_WIN",
+        "bspMarket": false,
+        "sgmMarket": false,
+        "inPlay": false,
+        "numberOfRunners": 6,
+        "numberOfActiveRunners": 6,
+        "numberOfWinners": 1,
+        "sortPriority": 0,
+        "bettingType": "ODDS",
+        "marketStatus": "OPEN",
+        "marketLevels": [
+          "UNKNOWN"
+        ],
+        "runners": [
+          {
+            "selectionId": 28725217,
+            "handicap": 0,
+            "runnerName": "Doolin Duke",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 24198546,
+            "handicap": 0,
+            "runnerName": "Catunda Logan",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 28104518,
+            "handicap": 0,
+            "runnerName": "Vixons Lad",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 36169847,
+            "handicap": 0,
+            "runnerName": "Hopes Doggy",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 35641247,
+            "handicap": 0,
+            "runnerName": "Faughan Rebel",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          },
+          {
+            "selectionId": 26024660,
+            "handicap": 0,
+            "runnerName": "Look Like Power",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE"
+          }
+        ],
+        "canTurnInPlay": false
+      }
+    },
+    "events": {
+      "131493": {
+        "eventId": 131493,
+        "name": "ANTEPOST",
+        "eventTypeId": 4339,
+        "countryCode": "GB",
+        "openDate": "2019-08-01T17:00:00.000Z",
+        "videoAvailable": false
+      },
+      "30066514": {
+        "eventId": 30066514,
+        "name": "Down Royal 31st October",
+        "eventTypeId": 7,
+        "countryCode": "IE",
+        "openDate": "2020-10-31T15:00:00.000Z",
+        "videoAvailable": false
+      },
+      "30086363": {
+        "eventId": 30086363,
+        "name": "FC Cincinnati v Kansas City",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-28T23:38:38.000Z",
+        "videoAvailable": true
+      },
+      "30086364": {
+        "eventId": 30086364,
+        "name": "New York Red Bulls v New England",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-28T23:08:13.000Z",
+        "videoAvailable": true
+      },
+      "30086365": {
+        "eventId": 30086365,
+        "name": "Orlando City v Atlanta Utd",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-28T23:55:24.000Z",
+        "videoAvailable": true
+      },
+      "30086377": {
+        "eventId": 30086377,
+        "name": "Philadelphia v Chicago Fire",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-28T23:38:52.000Z",
+        "videoAvailable": true
+      },
+      "30086381": {
+        "eventId": 30086381,
+        "name": "Toronto FC v New York City",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-28T23:38:18.000Z",
+        "videoAvailable": true
+      },
+      "30086391": {
+        "eventId": 30086391,
+        "name": "DC Utd v Columbus",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-29T00:08:30.000Z",
+        "videoAvailable": true
+      },
+      "30086408": {
+        "eventId": 30086408,
+        "name": "Minnesota Utd v Colorado",
+        "eventTypeId": 1,
+        "countryCode": "US",
+        "openDate": "2020-10-29T00:08:27.000Z",
+        "videoAvailable": true
+      },
+      "30086738": {
+        "eventId": 30086738,
+        "name": "Quindio v Jaguares de Cordoba",
+        "eventTypeId": 1,
+        "countryCode": "CO",
+        "openDate": "2020-10-29T00:00:20.000Z",
+        "videoAvailable": false
+      },
+      "30088905": {
+        "eventId": 30088905,
+        "name": "Ascot 31st October",
+        "eventTypeId": 7,
+        "countryCode": "GB",
+        "openDate": "2020-10-31T12:47:00.000Z",
+        "videoAvailable": false
+      },
+      "30088907": {
+        "eventId": 30088907,
+        "name": "Wetherby 31st October",
+        "eventTypeId": 7,
+        "countryCode": "GB",
+        "openDate": "2020-10-31T12:25:00.000Z",
+        "videoAvailable": false
+      },
+      "30089152": {
+        "eventId": 30089152,
+        "name": "Team Brasil v Team Zero",
+        "eventTypeId": 27454571,
+        "countryCode": "GB",
+        "openDate": "2020-10-29T00:04:05.000Z",
+        "videoAvailable": false
+      },
+      "30090158": {
+        "eventId": 30090158,
+        "name": "Celaya v Venados FC",
+        "eventTypeId": 1,
+        "countryCode": "MX",
+        "openDate": "2020-10-28T23:03:26.000Z",
+        "videoAvailable": false
+      },
+      "30092373": {
+        "eventId": 30092373,
+        "name": "CD Junior v Chinandega FC",
+        "eventTypeId": 1,
+        "countryCode": "NI",
+        "openDate": "2020-10-28T23:00:44.000Z",
+        "videoAvailable": false
+      },
+      "30093835": {
+        "eventId": 30093835,
+        "name": "Ogay, Sergey v Pravednov, Andrey",
+        "eventTypeId": 2593174,
+        "countryCode": "GB",
+        "openDate": "2020-10-29T00:00:00.000Z",
+        "videoAvailable": false
+      },
+      "30093872": {
+        "eventId": 30093872,
+        "name": "Girevenkov, Alik v Petrochenko, Dmitry",
+        "eventTypeId": 2593174,
+        "countryCode": "GB",
+        "openDate": "2020-10-29T00:15:00.000Z",
+        "videoAvailable": false
+      },
+      "30093873": {
+        "eventId": 30093873,
+        "name": "Ilin, Anatoliy v Mihaylov, Igor Valerevich",
+        "eventTypeId": 2593174,
+        "countryCode": "GB",
+        "openDate": "2020-10-29T00:15:00.000Z",
+        "videoAvailable": false
+      },
+      "30094217": {
+        "eventId": 30094217,
+        "name": "Maverick Banes v John-Patrick Smith",
+        "eventTypeId": 2,
+        "countryCode": "AU",
+        "openDate": "2020-10-28T23:41:26.000Z",
+        "videoAvailable": false
+      }
+    }
+  }
+}
